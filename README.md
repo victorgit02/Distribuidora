@@ -1,2 +1,0 @@
-# Distribuidora
-distribuidora-page
